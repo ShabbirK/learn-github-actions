@@ -1,4 +1,5 @@
 name: Context testing
+run-name: 2nd example from Contexts
 on: push
 
 jobs:

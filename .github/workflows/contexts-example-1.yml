@@ -1,4 +1,5 @@
 name: CI
+run-name: 1st Example from Contexts
 on: push
 jobs:
   prod-check:
