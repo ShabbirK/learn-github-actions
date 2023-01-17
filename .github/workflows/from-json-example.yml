@@ -1,5 +1,5 @@
-name: build
-run-name: From JSON Example
+name: fromJSON Example
+run-name: fromJSON Example
 on: push
 jobs:
   job1:
